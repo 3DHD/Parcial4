@@ -1,0 +1,12 @@
+c:\Users\Lab3\documents\visual studio 2013\Projects\Solution1\capaDatos\bin\Debug\capaDatos.dll.config
+c:\Users\Lab3\documents\visual studio 2013\Projects\Solution1\capaDatos\bin\Debug\capaDatos.dll
+c:\Users\Lab3\documents\visual studio 2013\Projects\Solution1\capaDatos\bin\Debug\capaDatos.pdb
+c:\Users\Lab3\documents\visual studio 2013\Projects\Solution1\capaDatos\obj\Debug\capaDatos.csprojResolveAssemblyReference.cache
+c:\Users\Lab3\documents\visual studio 2013\Projects\Solution1\capaDatos\obj\Debug\capaDatos.dll
+c:\Users\Lab3\documents\visual studio 2013\Projects\Solution1\capaDatos\obj\Debug\capaDatos.pdb
+C:\Users\Lab3\Documents\Visual Studio 2013\Projects\Parcial4-master\Solution1\capaDatos\bin\Debug\capaDatos.dll.config
+C:\Users\Lab3\Documents\Visual Studio 2013\Projects\Parcial4-master\Solution1\capaDatos\bin\Debug\capaDatos.dll
+C:\Users\Lab3\Documents\Visual Studio 2013\Projects\Parcial4-master\Solution1\capaDatos\bin\Debug\capaDatos.pdb
+C:\Users\Lab3\Documents\Visual Studio 2013\Projects\Parcial4-master\Solution1\capaDatos\obj\Debug\capaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Lab3\Documents\Visual Studio 2013\Projects\Parcial4-master\Solution1\capaDatos\obj\Debug\capaDatos.dll
+C:\Users\Lab3\Documents\Visual Studio 2013\Projects\Parcial4-master\Solution1\capaDatos\obj\Debug\capaDatos.pdb
